@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import Router from './Config/router';
-
 function App() {
+  console.log()
   return ( 
-    <div className='App'>
+    <div className='Main'>
       <Router />
     </div>
   // <Message />
