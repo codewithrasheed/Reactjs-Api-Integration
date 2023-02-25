@@ -17,7 +17,7 @@
   margin-left: 20px;
   margin-right: 10px;
   margin-bottom: 30px;
-  box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 5px 5px 10px 3px rgba(255, 255, 255, 0.3);
  }
 .cardimg{
   display: flex;
